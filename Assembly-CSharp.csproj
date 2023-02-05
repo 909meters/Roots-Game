@@ -48,6 +48,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\scripts\FrameSwitch.cs" />
      <None Include="Assets\Changelog.txt" />
  <Reference Include="UnityEngine">
  <HintPath>E:/Unity/2020.3.25f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
